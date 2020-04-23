@@ -1,6 +1,6 @@
 # todo_open_mind
 
-A new Flutter project.
+A new Flutter project Using MobX, Modular, Slidy, Hive.
 
 ## Getting Started
 
